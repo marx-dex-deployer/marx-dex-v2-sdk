@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9, CurrencyAmount } from '@uniswap/sdk-core'
+import { Ether, Token, WETH9, CurrencyAmount } from '@marx-dex/marx-dex-sdk-core'
 import { Pair, Route } from './index'
 
 describe('Route', () => {
