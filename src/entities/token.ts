@@ -66,7 +66,7 @@ export const WETH = {
   ),
   [ChainId.EVMOS]: new Token(
     ChainId.EVMOS,
-    '0x7001244E396aF9F3D861be871a33476E30A7B2E2',
+    '0x266C6cAC96A94a66B93d1487F3526aa83CA24ea4',
     18,
     'WETH',
     'Wrapped Ether'
