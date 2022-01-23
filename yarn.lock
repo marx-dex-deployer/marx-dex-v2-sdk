@@ -1390,10 +1390,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@marx-dex/marx-dex-v2-core@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@marx-dex/marx-dex-v2-core/-/marx-dex-v2-core-1.0.1.tgz#3b2c024a5c5780a66a02944fbd1f4ced736b0fef"
-  integrity sha512-L95ZJwp0QuGDfvDSS6Saxx/XS5wgfbfVDyrvVdUveYzbv7WwmKbCX8f+lju4GGh8mA6PldP7h3q5/l/x+hxv5A==
+"@marx-dex/marx-dex-v2-core@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@marx-dex/marx-dex-v2-core/-/marx-dex-v2-core-1.0.2.tgz#2dc0b533f3313fdc7a98b69fa131b514d4d963b6"
+  integrity sha512-YNVtzPtVPWj1kHEh7Fapwc5xIhQQOXuBQs4xUTnfsftah6HsSXtBKkQ3jlNGERYag4miGA5Ici2hQ3QPSS1kDg==
   dependencies:
     "@truffle/hdwallet-provider" "^2.0.0"
 

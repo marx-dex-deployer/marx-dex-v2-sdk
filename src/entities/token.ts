@@ -59,14 +59,14 @@ export function currencyEquals(currencyA: Currency, currencyB: Currency): boolea
 export const WETH = {
   [ChainId.EVMOS]: new Token(
     ChainId.EVMOS,
-    '0x266C6cAC96A94a66B93d1487F3526aa83CA24ea4',
+    '0x2a55419038102d9B671f031A7B4Fc99F1582d771',
     18,
     'WETH',
     'Wrapped Ether'
   ),
   [11111]: new Token(
     11111,
-    '0x266C6cAC96A94a66B93d1487F3526aa83CA24ea4',
+    '0x2a55419038102d9B671f031A7B4Fc99F1582d771',
     18,
     'WETH',
     'Wrapped Ether'
