@@ -61,14 +61,14 @@ export const WETH = {
     ChainId.EVMOS,
     '0x2a55419038102d9B671f031A7B4Fc99F1582d771',
     18,
-    'WETH',
-    'Wrapped Ether'
+    'WEVMOS',
+    'Wrapped Evmos'
   ),
   [11111]: new Token(
     11111,
     '0x2a55419038102d9B671f031A7B4Fc99F1582d771',
     18,
-    'WETH',
-    'Wrapped Ether'
+    'WEVMOS',
+    'Wrapped Evmos'
   )
 }

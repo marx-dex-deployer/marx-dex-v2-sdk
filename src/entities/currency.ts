@@ -4,9 +4,9 @@ import { SolidityType } from '../constants'
 import { validateSolidityTypeInstance } from '../utils'
 
 /**
- * A currency is any fungible financial instrument on Ethereum, including Ether and all ERC20 tokens.
+ * A currency is any fungible financial instrument on Ethereum, including Evmos and all ERC20 tokens.
  *
- * The only instance of the base class `Currency` is Ether.
+ * The only instance of the base class `Currency` is Evmos.
  */
 export class Currency {
   public readonly decimals: number
@@ -16,7 +16,7 @@ export class Currency {
   /**
    * The only instance of the base class `Currency`.
    */
-  public static readonly ETHER: Currency = new Currency(18, 'ETH', 'Ether')
+  public static readonly ETHER: Currency = new Currency(18, 'Evmos', 'Evmos')
 
   /**
    * Constructs an instance of the base class `Currency`. The only instance of the base class `Currency` is `Currency.ETHER`.
